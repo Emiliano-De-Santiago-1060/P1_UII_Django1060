@@ -1,2 +1,16 @@
 # P1_UII_Django1060
 Configuraciones básicas para trabajar con el frameworb de Django 
+## Preocedimiento 
+- 1 Crear carpeta de trabajo SnacksDSS1060
+- 2 Abrir la carpeta con VS code
+- 3 Abrir terminal de VS code
+- 4 Verificar que esta python y su version en terminal  --> python --version
+- 5 Link de VS code --> https://code.visualstudio.com/docs/python/tutorial-django
+- 6 Crear el entorno de trabajo -->
+- 7 Activar el entorno --> .venv\scripts\activate.bat
+- 8 Seleccionar interpreter de python --> presione F1
+- 9 Actualizar pip --> python -m pip install --upgrade pip
+- 10 instalar Django --> python -m pip install django
+- 11 Creando el proyecto --> django-admin startproject web_project .
+- 12 Realizar migracion a proyecto --> python manage.py migrate
+- 13 Ejecutar servidor --> python manage.py runserver
