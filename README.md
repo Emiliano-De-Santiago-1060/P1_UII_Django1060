@@ -11,7 +11,7 @@ Configuraciones básicas para trabajar con el frameworb de Django
 - 8 Seleccionar interpreter de python --> presione F1
 - 9 Actualizar pip --> python -m pip install --upgrade pip
 - 10 instalar Django --> python -m pip install django
-- 11 Creando el proyecto --> django-admin startproject web_project .
+- 11 Creando el proyecto --> django-admin startproject webSnacksDSS .
 - 12 Realizar migracion a proyecto --> python manage.py migrate
 - 13 Ejecutar servidor --> python manage.py runserver
 - Me trabajo: http://127.0.0.1:8000/
