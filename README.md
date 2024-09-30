@@ -6,7 +6,7 @@ Configuraciones básicas para trabajar con el frameworb de Django
 - 3 Abrir terminal de VS code
 - 4 Verificar que esta python y su version en terminal  --> python --version
 - 5 Link de VS code --> https://code.visualstudio.com/docs/python/tutorial-django
-- 6 Crear el entorno de trabajo -->
+- 6 Crear el entorno de trabajo --> py -3 -m venv .venv
 - 7 Activar el entorno --> .venv\scripts\activate.bat
 - 8 Seleccionar interpreter de python --> presione F1
 - 9 Actualizar pip --> python -m pip install --upgrade pip
