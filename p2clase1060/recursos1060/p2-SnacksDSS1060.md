@@ -1,0 +1,14 @@
+- Crear aplicacion DeSantiago_app
+- Comando --> python manage.py startapp DeSantiago_app
+- Creamos el archivo urls..py en DeSantiago_app
+- ![alt text](image-1.png)
+- En sentting.py de p2clase1060
+- ![alt text](image-2.png)
+- En urls.py de p2clase1060
+- ![alt text](image-3.png)
+- en urls.py en DeSantiagoclase_app
+- ![alt text](image-4.png)
+- En views.py en DeSantiagoclase_app
+- ![alt text](image-5.png)
+- En urls.py en DeSantiagoclase_app
+- ![alt text](image-6.png)
